@@ -1,7 +1,8 @@
-- 👋 Hi, I’m James. From the fashion industry to tech, I'm on a bit of a journey.
-- 📚 Makers Grad.
-- 🌱 Building www.arve.money, the first invoice finance platform for freelancers. 
-- 📫 email jamesandrewpates@gmail.com // james@arve.money
+- 👋 Hi, I’m James. 
+- ⚡ I build automations & systems for startups and small businesses.
+- 🌱 Building jamespates.dev from a one-man-band tech consultancy to a fully agency.
+- 📚 Makers grad.
+- 📫 email jp@jamespates.dev
 - 🧑🏼‍💻 @james_pates on twitter // instagram.
 - 🚤 I live on a narrowboat in London, with my friendly Whippet companion 🐶, Jensen. 
 <!---
