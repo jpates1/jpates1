@@ -1,6 +1,5 @@
 - 👋 Hi, I’m James. 
 - ⚡ I build automations & systems for startups and small businesses.
-- 🌱 Building jamespates.dev from a one person freelance tech consultancy to a fully fleged agency.
 - 📚 Makers grad.
 - 📫 email jp@jamespates.dev
 - 🧑🏼‍💻 @james_pates on twitter // instagram.
